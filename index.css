@@ -3,12 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-.wapper{
-    position: relative;
-}
 .wapper2 {
-    /* display: none; */
-    height: 100vh;
+    height: 95vh;
     width: 100%;
 }
 
@@ -111,8 +107,8 @@
     border-radius: 2px;
 }
 .wapper3{
-    /* background-color: yellow; */
-    /* display: none; */
+    background-color: rgb(110, 110, 104));
+    display: none;
 }
 
 .wapper4 {
@@ -160,4 +156,4 @@
     
 }
 .container .container2 .page3a1{background-color: black;}
-.container .container2 .page3a2{background-color: red;} */
+.container .container2 .page3a2{background-color: rgb(196, 196, 13);} */
