@@ -24,8 +24,8 @@ const questions = [
 
 const maindiv = document.querySelector('.wapper2')
 const musicdata = document.querySelector('.box211')
-// const artdata = document.querySelector('.box212')
-// const codingdata = document.querySelector('.box213')
+const artdata = document.querySelector('.box212')
+const codingdata = document.querySelector('.box213')
 const startbutton = document.querySelector('.box21 .start')
 const questionElement = document.querySelector('.question');
 const optionElements = document.querySelectorAll('label');
